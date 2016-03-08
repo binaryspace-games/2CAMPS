@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 64e16f8cf96d0b5458fd77f795ac1175
+timeCreated: 1456976513
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Specialist-Tecnic_0
+    21300002: Specialist-Tecnic_1
+    21300004: Specialist-Tecnic_2
+    21300006: Specialist-Tecnic_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Specialist-Tecnic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 71}
+        - {x: -34, y: 71}
+        - {x: -35, y: 66}
+        - {x: -34, y: 58}
+        - {x: -34, y: 37}
+        - {x: -31, y: 35}
+        - {x: -28, y: 28}
+        - {x: -45, y: 51}
+        - {x: -54, y: 57}
+        - {x: -66, y: 57}
+        - {x: -66, y: -16}
+        - {x: -7, y: -73}
+        - {x: 34, y: -73}
+        - {x: 63, y: -60}
+        - {x: 65, y: -41}
+        - {x: 65, y: 27}
+    - name: Specialist-Tecnic_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 75}
+        - {x: -44, y: 68}
+        - {x: -34, y: 34}
+        - {x: -53, y: 63}
+        - {x: -61, y: 70}
+        - {x: -71, y: 71}
+        - {x: -71, y: 19}
+        - {x: -33, y: -73}
+        - {x: 17, y: -73}
+        - {x: 65, y: -54}
+        - {x: 65, y: 10}
+        - {x: 63, y: 19}
+        - {x: -21, y: 75}
+    - name: Specialist-Tecnic_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 12}
+        - {x: 41, y: 26}
+        - {x: -28, y: 75}
+        - {x: -48, y: 75}
+        - {x: -50, y: 72}
+        - {x: -36, y: 37}
+        - {x: -34, y: 34}
+        - {x: -46, y: 54}
+        - {x: -60, y: 74}
+        - {x: -66, y: 75}
+        - {x: -71, y: 75}
+        - {x: -72, y: 72}
+        - {x: -72, y: 36}
+        - {x: -65, y: -13}
+        - {x: -7, y: -73}
+        - {x: 22, y: -73}
+        - {x: 52, y: -59}
+        - {x: 64, y: -44}
+        - {x: 65, y: -29}
+        - {x: 65, y: -2}
+    - name: Specialist-Tecnic_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 75}
+        - {x: -45, y: 65}
+        - {x: -36, y: 37}
+        - {x: -34, y: 34}
+        - {x: -55, y: 70}
+        - {x: -62, y: 75}
+        - {x: -73, y: 75}
+        - {x: -73, y: -21}
+        - {x: -10, y: -73}
+        - {x: 39, y: -73}
+        - {x: 58, y: -68}
+        - {x: 65, y: -44}
+        - {x: 65, y: 8}
+        - {x: -21, y: 75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

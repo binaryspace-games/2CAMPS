@@ -1,0 +1,39 @@
+{
+    "Round1":{
+        "Wave1":{
+            "waveDelay": 5.0,
+            "waveTroop": "lightTroop",
+            "numberOfTroops": 5,
+            "troopSpawnDelay": 2.1
+        }
+    },
+    "Round2":{
+        "Wave1":{
+            "waveDelay": 10.0,
+            "waveTroop": "lightTroop",
+            "numberOfTroops": 3,
+            "troopSpawnDelay": 2.0
+        },
+        "Wave2":{
+            "waveDelay": 2.1,
+            "waveTroop": "mediumTroop",
+            "numberOfTroops": 2,
+            "troopSpawnDelay": 2.0
+        }
+    },
+    "Round3":{
+        "Wave1":{
+           "waveDelay": 10.0,
+           "waveTroop": "lightTroop",
+           "numberOfTroops": 4,
+           "troopSpawnDelay": 1.5
+         },
+        "Wave2":{
+            "waveDelay": 3.0,
+            "waveTroop": "mediumTroop",
+            "numberOfTroops": 2,
+            "troopSpawnDelay": 1.2
+        }    
+    }
+}
+    

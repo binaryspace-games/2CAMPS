@@ -1,0 +1,186 @@
+{
+    "Tower1" : {
+        "name": "rifleman",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 5,
+        "cost": {
+            "base": 250,
+            "upgrade1": 220,
+            "upgrade2": 250,
+            "upgrade3": 400,
+            "upgrade4": 700
+        }  
+    },
+    "Tower2" : {
+        "name" : "sniper",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 8,
+        "cost": {
+            "base": 300,
+            "upgrade1": 250,
+            "upgrade2": 450,
+            "upgrade3": 850,
+            "upgrade4": 1100
+        }        
+    },
+    "Tower3" : {
+        "name": "shotgun",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 400,
+            "upgrade1": 280,
+            "upgrade2": 450,
+            "upgrade3": 850,
+            "upgrade4": 1100
+        }        
+    },
+    "Tower4" : {
+        "name": "flame",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 3,
+        "cost": {
+            "base": 550,
+            "upgrade1": 500,
+            "upgrade2": 625,
+            "upgrade3": 900,
+            "upgrade4": 825
+        }      
+    },
+    "Tower5" : {
+        "name": "builder",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 600,
+            "upgrade1": 400,
+            "upgrade2": 650,
+            "upgrade3": 900,
+            "upgrade4": 850
+        }        
+    },
+    "Tower6" : {
+        "name": "specialist",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 525,
+            "upgrade1": 450,
+            "upgrade2": 525,
+            "upgrade3": 900,
+            "upgrade4": 1100
+        }        
+    },
+    "Tower7" : {
+        "name": "missile",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 600,
+            "upgrade1": 400,
+            "upgrade2": 450,
+            "upgrade3": 700,
+            "upgrade4": 1100
+        }        
+    },
+    "Tower8" : {
+        "name": "rpg",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 450,
+            "upgrade1": 350,
+            "upgrade2": 500,
+            "upgrade3": 1200,
+            "upgrade4": 900
+        }        
+    },
+    "Tower9" : {
+        "name": "ptboat",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 350,
+            "upgrade1": 725,
+            "upgrade2": 600,
+            "upgrade3": 950,
+            "upgrade4": 1250
+        }        
+    },
+    "Tower10" : {
+        "name": "submarine",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 475,
+            "upgrade1": 450,
+            "upgrade2": 625,
+            "upgrade3": 1800,
+            "upgrade4": 1000
+        }        
+    },
+    "Tower11" : {
+        "name": "battleship",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 1200,
+            "upgrade1": 600,
+            "upgrade2": 750,
+            "upgrade3": 2750,
+            "upgrade4": 1450
+        }        
+    },
+    "Tower12" : {
+        "name": "farm",
+        "placementArea" : "ground",
+        "towerRadius": 1,    
+        "range": 4,
+        "cost": {
+            "base": 950,
+            "upgrade1": 600,
+            "upgrade2": 800,
+            "upgrade3": 1400,
+            "upgrade4": 1360
+        }        
+    },
+    "Tower13" : {
+        "name": "turret",
+        "placementArea" : "path",
+        "cost": {
+            "base": 0
+        }        
+    },
+    "Tower14" : {
+        "name": "airstrike",
+        "placementArea" : "path",
+        "cost": {
+            "base": 0
+        }        
+    },       
+    "Tower15" : {
+        "name": "barricade",
+        "placementArea" : "path",
+        "cost": {
+            "base": 0
+        }        
+    },
+    "Tower16" : {
+        "name": "mine",
+        "placementArea" : "path",
+        "cost": {
+            "base": 0
+        }        
+    }
+}

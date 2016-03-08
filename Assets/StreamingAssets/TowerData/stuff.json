@@ -1,0 +1,8 @@
+{
+    "Tower1":{
+        "name": "specialist",
+        "cost": {
+            "base" : 525
+        }
+    }
+}
